@@ -1,0 +1,10 @@
+export { useStudents, useStudent } from './useStudents';
+export { useTeachers } from './useTeachers';
+export { useClasses } from './useClasses';
+export { useAttendance } from './useAttendance';
+export { useFeeStructures, useFeePayments } from './useFees';
+export { useExams } from './useExams';
+export { useLibraryBooks, useLibraryIssues } from './useLibrary';
+export { useHomework } from './useHomework';
+export { useSchools } from './useSchools';
+export { useSalary } from './useSalary';
